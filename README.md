@@ -1,6 +1,6 @@
 # hochschul_praxistage_ruby
 
-FizzBuzz template
+FizzBuzz template for ruby with rspec
 
 ## HowTo
 
